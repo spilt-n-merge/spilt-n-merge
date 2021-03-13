@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @spilt-n-merge
+- 👋 Hi, I’m Naveen Tiwari
 - 👀 I’m interested in AI & Machine Learning
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Machine Learning Projects
